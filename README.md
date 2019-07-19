@@ -12,4 +12,4 @@ CSS
 JavaScript 
 
 App demo
-https://sinhard.github.io/to-do-list
+https://sinhard.github.io/sinhard.github.io/todo-list/
