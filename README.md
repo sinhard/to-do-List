@@ -1,16 +1,16 @@
-<h3> ToDo-List </h3>
+<h1> ToDo-List </h1>
 <p> ToDo list is a simple web application to save Your daily tasks in order not to miss anything. <p>
 
-Features
-Add new task
-Delete single task
-Delete completed tasks
-Delete all tasks
-
-Technologies used:
-HTML
-CSS
-JavaScript
+<h1> Features <h1>
+  <p> Add new task </p>
+  <p> Delete single task </p>
+  <p> Delete completed tasks </p>
+  <p> Delete all tasks </p>
+  
+<h1> Technologies used: </h1>
+  <p> HTML </p>
+  <p> CSS </p>
+  <p> JavaScript </p> 
 
 App demo
 https://januszch.github.io/ToDo-List/
