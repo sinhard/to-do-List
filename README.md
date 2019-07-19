@@ -2,6 +2,7 @@
 <p> ToDo list is a simple web application to save Your daily tasks in order not to miss anything. <p>
 
 <h1> Features <h1>
+<p> New Task <p>
   <li> new task </li>
   Delete single task
   Delete completed tasks
