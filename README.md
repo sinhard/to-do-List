@@ -7,9 +7,12 @@ Delete single task
 Delete completed tasks
   
 # Technologies used:
-HTML
-CSS
-JavaScript 
+* HTML
+* CSS
+* JavaScript 
 
-App demo
+# Installation 
+* Clone repository 
+* Open index.html, using a browser. 
+App Demo
 https://sinhard.github.io/sinhard.github.io/todo-list/
